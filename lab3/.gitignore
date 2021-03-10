@@ -1,0 +1,10 @@
+*.bin
+*.elf
+*.map
+*.hex
+*.map
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles
+.vscode
+Makefile
